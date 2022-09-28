@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stepper Component Component Stepper matchers DOM Snapshot 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 knVWgS"
+    display="flex"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 knVWgS"
+      display="flex"
+    >
+      <span
+        class="TextStyled-sc-9xia41-0 leTdwL"
+        color="#C0C0C0"
+        data-testid="stepper-value"
+        font-weight="400"
+      >
+        Sign Up
+      </span>
+      <span
+        class="TextStyled-sc-9xia41-0 StepperStyled__ArrowStyled-sc-1rhowde-0 gtHdGO jbeCTy"
+      />
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 knVWgS"
+      display="flex"
+    >
+      <span
+        class="TextStyled-sc-9xia41-0 leTdwL"
+        color="#C0C0C0"
+        data-testid="stepper-value"
+        font-weight="400"
+      >
+        Set Goals
+      </span>
+      <span
+        class="TextStyled-sc-9xia41-0 StepperStyled__ArrowStyled-sc-1rhowde-0 gtHdGO jbeCTy"
+      />
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 knVWgS"
+      display="flex"
+    >
+      <span
+        class="TextStyled-sc-9xia41-0 leTdwL"
+        color="#C0C0C0"
+        data-testid="stepper-value"
+        font-weight="400"
+      >
+        Connect Bank
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,486 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GoalModal matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ModalStyled__BackDropStyled-sc-d5vki3-1 fTsvHV cnMCGd"
+    data-testid="backdrop"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 ModalStyled-sc-d5vki3-0 hzMsLt hTNOqC hmXhmG"
+    >
+      <div
+        class="ModalStyled__ImageWrapper-sc-d5vki3-2 eSAkbC"
+        data-testid="close-icon"
+      >
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+        >
+          <img
+            alt="close-icon"
+            data-nimg="fill"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+          <noscript />
+        </span>
+      </div>
+      <h1
+        class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 fDhYUR WstJK"
+        color="#000"
+        font-family="AdobeCleanExtraBold"
+        font-size="36"
+      >
+        What are your Stellar goals?
+      </h1>
+      <span
+        class="TextStyled-sc-9xia41-0 fpvcHn"
+      >
+        Select all that apply.
+      </span>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 kruvYh"
+        display="flex"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 GoalModalStyled__WrapperGoalListContent-sc-119mq2b-0 fTsvHV iZljWA"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 etuUCN"
+            display="flex"
+            width="100%"
+          >
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Improve My 
+ Credit Score
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Build 
+ Wealth
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Buy A Car
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Get A Job
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Buy 
+ A Home
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Rent 
+ A Home
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Get A 
+ Credit Card
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Get Better 
+ Insurance Rate
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Get Better 
+ Interest Rates
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Pay May Bills 
+ On Time
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Get A Loan
+              </p>
+            </div>
+            <div
+              class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 eBRJBV eFQizc"
+              cursor="pointer"
+              data-testid="card-goal"
+              display="flex"
+              height="120"
+              width="160"
+            >
+              <div
+                class="ViewStyled-sc-rqe5sa-0 CardGoalStyled__WrapperImage-sc-s2xlor-0 hQeZKG ihZIBO"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                >
+                  <img
+                    alt="Card Goal"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <p
+                class="TextStyled-sc-9xia41-0 eTpfgb"
+                color="#203F59"
+                display="-webkit-box"
+                font-size="14"
+                overflow="hidden"
+              >
+                Start 
+ A Business
+              </p>
+            </div>
+          </div>
+        </div>
+        <button
+          class="ButtonStyled-sc-1ys9v52-0 cyPVUL"
+          data-testid="button"
+          disabled=""
+          letter-spacing="0.69"
+          type="submit"
+        >
+          Continue
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

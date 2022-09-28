@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Marketing render should render marketing component 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 kRzxHL dbZetz"
+    display="flex"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 fEXkeO"
+      display="flex"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Podcast
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Referral
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Clubhouse
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Pinterest
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            YouTube
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Facebook
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Online Ad
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Wed Search
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Instagram
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            TikTok
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 gWlwSj"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hBwktS"
+          cursor="pointer"
+          data-testid="label-box"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 dItzST"
+            color="#242A30"
+            font-size="14"
+          >
+            Other
+          </span>
+        </div>
+      </div>
+    </div>
+    <button
+      class="ButtonStyled-sc-1ys9v52-0 xbTIZ"
+      data-testid="button"
+      disabled=""
+    >
+      Continue
+    </button>
+  </div>
+</DocumentFragment>
+`;

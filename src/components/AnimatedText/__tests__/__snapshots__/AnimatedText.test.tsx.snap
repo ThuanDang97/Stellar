@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedText Component renders AnimatedText unchanged 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 bfTvEd"
+    display="flex"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeOutStyled-sc-1e3pr1k-0 fTsvHV bcLOKv"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__LogoResponsiveLandingPage-sc-1e3pr1k-6 bSByRT hfkkOz"
+      >
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+        >
+          <img
+            alt="stellar-logo"
+            data-nimg="fill"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+          <noscript />
+        </span>
+      </div>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeInBottomStyled-sc-1e3pr1k-3 fTsvHV cZtgP"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeOutStyled-sc-1e3pr1k-0 fTsvHV cKROiS"
+      >
+        <h1
+          class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+          color="#FFF"
+          font-weight="700"
+        >
+          Bad credit weighs you down.
+        </h1>
+      </div>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeInTopStyled-sc-1e3pr1k-2 fTsvHV kLeBoE"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeOutStyled-sc-1e3pr1k-0 fTsvHV chdMul"
+      >
+        <h1
+          class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+          color="#FFF"
+          font-weight="700"
+        >
+          Good credit lifts you up.
+        </h1>
+      </div>
+    </div>
+  </div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__ImageSlideInStyled-sc-1e3pr1k-4 fTsvHV lgaRsn"
+  >
+    <span
+      style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+    >
+      <img
+        alt="earth"
+        data-nimg="fill"
+        decoding="async"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+      />
+      <noscript />
+    </span>
+  </div>
+</div>
+`;

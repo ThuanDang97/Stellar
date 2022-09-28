@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select Component Component Select matchers DOM Snapshot 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 fTsvHV"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 ViewStyled__BorderWrapperStyled-sc-rqe5sa-4 jHJDZn gCWxC"
+      data-testid="select"
+      pointer-events="auto"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 SelectStyled__WrapperSelectStyled-sc-4qihay-1 fTsvHV kUJXAU"
+      >
+        <div
+          class="ViewStyled__DividerStyled-sc-rqe5sa-5 cDSipF"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 gtHdGO"
+            data-testid="select-value"
+          />
+          <span
+            class="SelectStyled__SelectIconStyled-sc-4qihay-0 loNHhu"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

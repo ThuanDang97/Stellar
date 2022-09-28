@@ -1,0 +1,31 @@
+[
+  {
+    "userId": "2e2696f7fa7cf",
+    "addedBills": [
+      {
+        "id": "l81dc4p9.5s",
+        "imgUrl": "/images/netflix.png",
+        "description": "Netflix",
+        "amount": 123
+      },
+      {
+        "id": "l8ijik0s.awo",
+        "imgUrl": "/images/netflix.png",
+        "description": "Netflix",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "userId": "2e2696f7fa7gg",
+    "addedBills": [
+      {
+        "id": "dgre345",
+        "description": "Netflix",
+        "imgUrl": "/images/netflix.png",
+        "amount": 25.77
+      }
+    ]
+  },
+  { "userId": "l81elcmf.ufe", "addedBills": [] }
+]

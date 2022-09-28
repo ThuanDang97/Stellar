@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlaceholderItem Component renders PlaceholderItem component 1`] = `
+<div>
+  <div
+    class="rect-shape"
+    style="background-color: rgb(230, 230, 230); width: 2.5rem; height: 2.5rem; margin-right: 10px; margin-top: 0rem;"
+  />
+</div>
+`;

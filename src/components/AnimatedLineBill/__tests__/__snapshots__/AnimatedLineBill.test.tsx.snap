@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedLineBill Component renders animatedLineBill unchanged 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 dtSpVb"
+    display="flex"
+    width="min(100%, 43.75rem)"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 AnimatedLineBillStyled__LineColorWrapper-sc-ztf5jp-0 fTsvHV iQJmEA"
+    >
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineBillStyled__StartLineBillStyled-sc-ztf5jp-1 jMrJhT iHoRst cRoEkJ"
+        width="100"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineBillStyled__StartLineBillStyled-sc-ztf5jp-1 jtlkPM hLygIM jfjELA"
+        width="20"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf kAsDDv"
+        width="20"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf fNviSI"
+        width="20"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf eavuws"
+        width="20"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf htejUP"
+        width="20"
+      />
+    </div>
+    <div
+      class="AnimatedLineBillStyled__Shim-sc-ztf5jp-4 dUfsxq"
+    />
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__EndBaseLineStyled-sc-okjczv-3 AnimatedLineBillStyled__EndLineBillStyled-sc-ztf5jp-3 jAKLm dahDgB dELqAS"
+      width="80"
+    />
+  </div>
+</DocumentFragment>
+`;

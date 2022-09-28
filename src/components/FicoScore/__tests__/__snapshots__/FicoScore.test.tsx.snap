@@ -1,0 +1,950 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FicoScore component renders FicoScore correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 kVCtEV btvkUa"
+    width="100%"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 iGWxQB"
+      display="flex"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 TickerStyled__TickerWrapperStyled-sc-x8b1pu-0 eQdhWe inONBg"
+        color="#F22E3E"
+        data-testid="digit-container"
+        height="0"
+      >
+        <div
+          class="TickerStyled__TickerColumn-sc-x8b1pu-1 TickerStyled__TickerColumnOne-sc-x8b1pu-2 fPgOvX duqavd"
+        >
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+        </div>
+        <div
+          class="TickerStyled__TickerColumn-sc-x8b1pu-1 TickerStyled__TickerColumnTwo-sc-x8b1pu-3 eYwLsI JKGqo"
+        >
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+        </div>
+        <div
+          class="TickerStyled__TickerColumn-sc-x8b1pu-1 TickerStyled__TickerColumnThree-sc-x8b1pu-4 eYwLsI lpsVtF"
+        >
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            0
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            1
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            2
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            3
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            4
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            5
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            6
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            7
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            8
+          </h2>
+          <h2
+            class="TickerStyled__TickerDigit-sc-x8b1pu-5 iimuNt"
+            font-size="53"
+          >
+            9
+          </h2>
+        </div>
+      </div>
+      <div
+        class="TickerStyled__TickerSimulator-sc-x8b1pu-6 cSXHfs"
+        font-size="53"
+      >
+        0
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 jhgBWe"
+        display="flex"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 knVWgS"
+          display="flex"
+        >
+          <h2
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 dozpQ fTabgG"
+            color="#000"
+            font-size="24"
+            font-weight="700"
+          >
+            FICO
+          </h2>
+          <h2
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 bZddvp eABfQQ"
+            color="#000"
+            font-family="AdobeCleanLight"
+            font-size="24"
+            font-weight="400"
+          >
+             SCORE 8
+          </h2>
+        </div>
+        <span
+          class="TextStyled-sc-9xia41-0 leGgIj"
+          color="#203F59"
+          font-family="AdobeCleanLight"
+          font-size="13"
+          letter-spacing="0.4"
+        />
+      </div>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 cEttAk"
+      display="flex"
+    >
+      <p
+        class="TextStyled-sc-9xia41-0 iqtaRc"
+        color="#000"
+        font-size="14"
+      >
+        300
+      </p>
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 eiaXsV ifLECW"
+        height="7"
+        opacity="1"
+        width="51"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 duaSFb dbuCnc"
+        height="7"
+        opacity="1"
+        width="16"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 fssdGi dbIHPc"
+        height="7"
+        opacity="1"
+        width="14"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__EndBaseLineStyled-sc-okjczv-3 kIORHB fKiEZo"
+        height="7"
+        opacity="1"
+        width="20"
+      />
+      <div
+        class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__LineScoreStyled-sc-okjczv-4 geSzQn hjZOmd"
+        opacity="0.7"
+        width="153"
+      />
+      <p
+        class="TextStyled-sc-9xia41-0 ljPOft"
+        color="#000"
+        font-size="14"
+      >
+        850
+      </p>
+      <div
+        class="LineStyled__ArrowDownStyled-sc-okjczv-5 bONNmq"
+      >
+        <span
+          class="TextStyled-sc-9xia41-0 AnimatedTextStyled__TextFadeInScoreStyled-sc-1e3pr1k-5 hVOfzN RJerm"
+          color="#00D89D"
+          font-size="11"
+        >
+          Excellent
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

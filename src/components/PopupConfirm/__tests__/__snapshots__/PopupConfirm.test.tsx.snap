@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PopupConfirm Component renders PopupConfirm unchanged 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ModalStyled__BackDropStyled-sc-d5vki3-1 jTMsSi fuZKtD"
+    data-testid="backdrop"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 ModalStyled-sc-d5vki3-0 bcQnwn hTNOqC hmXhmG"
+    >
+      <div
+        class="ModalStyled__ImageWrapper-sc-d5vki3-2 eSAkbC"
+        data-testid="close-icon"
+      >
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+        >
+          <img
+            alt="close-icon"
+            data-nimg="fill"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+          <noscript />
+        </span>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 hzmwyD"
+        display="flex"
+        width="100%"
+      >
+        <span
+          class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 TitleStyled__TitlePopupStyled-sc-t58pjn-2 dGUnnO cssbkN iyHIHp"
+          color="#242A30"
+          font-size="24"
+          font-weight="600"
+        >
+          Delete Confirmation
+        </span>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 hvIspU"
+      >
+        <p
+          class="TextStyled-sc-9xia41-0 ckPksP"
+          color="#242A30"
+          font-size="20"
+        >
+          Are you sure you want to delete this item?
+        </p>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 fgffmQ"
+        display="flex"
+        width="100%"
+      >
+        <button
+          class="ButtonStyled-sc-1ys9v52-0 dXGULF"
+          color="#242A30"
+          data-testid="button"
+        >
+          Cancel
+        </button>
+        <button
+          class="ButtonStyled-sc-1ys9v52-0 apyBj"
+          data-testid="button"
+        >
+          Delete
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

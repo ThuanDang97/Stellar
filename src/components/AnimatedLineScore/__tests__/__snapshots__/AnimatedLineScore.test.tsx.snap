@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedLineScore Component renders animatedLineScore unchanged 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 kCJugR"
+    display="flex"
+    overflow="hidden"
+    width="100%"
+  >
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineScoreStyled__StartLineScoreStyled-sc-poybgv-0 dlHdcM hLygIM dPidGS"
+      width="35"
+    />
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineScoreStyled__MiddleLineScoreStyled-sc-poybgv-1 btYAst ldvwuf fvdruU"
+      width="30"
+    />
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineScoreStyled__MiddleLineScoreStyled-sc-poybgv-1 dCqiri ldvwuf hkQYyp"
+      width="15"
+    />
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineScoreStyled__MiddleLineScoreStyled-sc-poybgv-1 hhHjIH ldvwuf ifzRSN"
+      width="10"
+    />
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__EndBaseLineStyled-sc-okjczv-3 AnimatedLineScoreStyled__EndLineScoreStyled-sc-poybgv-2 hhHjIH dahDgB jlmGRx"
+      width="10"
+    />
+    <div
+      class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineScoreStyled__LayerLineStyled-sc-poybgv-3 kdqgjs hLygIM gwDPoj"
+      width="80% - 0.875rem"
+    />
+    <div
+      class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 lisOCr"
+    />
+    <div
+      class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 bDcpsq"
+    />
+    <div
+      class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 cRdoku"
+    />
+    <div
+      class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 dnSNqt"
+    />
+  </div>
+</DocumentFragment>
+`;

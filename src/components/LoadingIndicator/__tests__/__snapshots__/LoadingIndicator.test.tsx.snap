@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoadingIndicator component should be renders full loading indicator snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 LoadingIndicatorStyled__LoadingBackdrop-sc-rpbkwo-0 fTsvHV knjOvY"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 LoadingIndicatorStyled-sc-rpbkwo-1 fTsvHV GwSjS"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`LoadingIndicator component should be renders inline loading indicator snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 LoadingIndicatorStyled-sc-rpbkwo-1 fTsvHV GwSjS"
+  />
+</DocumentFragment>
+`;

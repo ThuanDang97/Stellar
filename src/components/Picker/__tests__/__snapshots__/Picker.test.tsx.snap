@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Picker Component renders picker component 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__BorderWrapperStyled-sc-rqe5sa-4 kuBhDh eWayqq"
+    data-testid="select"
+    width="100%"
+  >
+    <div
+      class="ViewStyled__DividerStyled-sc-rqe5sa-5 eRzaft"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 InputStyled__WrapperInputStyled-sc-9gj86m-1 gtErIS llBddb"
+        display="flex"
+      >
+        <div
+          class="react-datepicker-wrapper"
+        >
+          <div
+            class="react-datepicker__input-container"
+          >
+            <input
+              class="PickerStyled__DateStyled-sc-1ns5yoz-0 golTem"
+              placeholder="MM/DD/YYYY"
+              type="text"
+              value="Pay by the 19th"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

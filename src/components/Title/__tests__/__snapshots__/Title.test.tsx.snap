@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title Component Component Title matches DOM Snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 bfcxuE WstJK"
+    color="#000"
+    size="36"
+  >
+    Start Paying Bills & Building Credit With Stellar
+  </h1>
+</DocumentFragment>
+`;

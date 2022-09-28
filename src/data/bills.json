@@ -1,0 +1,26 @@
+[
+  {
+    "imgUrl": "/images/netflix.png",
+    "description": "Netflix"
+  },
+  {
+    "imgUrl": "/images/t-mobile.png",
+    "description": "T-Mobile"
+  },
+  {
+    "imgUrl": "/images/hulu.png",
+    "description": "Hulu"
+  },
+  {
+    "imgUrl": "/images/x-finity.png",
+    "description": "Xfinity"
+  },
+  {
+    "imgUrl": "/images/at-wireless.png",
+    "description": "AT&T Wireless"
+  },
+  {
+    "imgUrl": "/images/spotify.png",
+    "description": "Spotify"
+  }
+]

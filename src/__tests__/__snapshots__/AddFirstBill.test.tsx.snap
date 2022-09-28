@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Add First Bill Page Should be renders add first bill page  1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__WrapperContent-sc-rqe5sa-6 holbIa gVWyht"
+    display="flex"
+  >
+    <h1
+      class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 TitleStyled__TitlePageStyled-sc-t58pjn-1 gwtqfM ONSni ilgUUT"
+      color="#242A30"
+      font-family="AdobeCleanExtraBold"
+      font-size="36"
+      letter-spacing="2"
+    >
+      Congrats, you're about to set up your first bill with Stellar!
+    </h1>
+    <span
+      class="TextStyled-sc-9xia41-0 jAiJbK"
+      letter-spacing="0.9"
+    >
+      Once you link the bill, we will pay it on time and draft the funds from your bank account on the selected date.
+    </span>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 krRcuY"
+      height="450"
+      width="380"
+    >
+      <span
+        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+      >
+        <img
+          alt="Jumping man image"
+          data-nimg="fill"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+        />
+        <noscript />
+      </span>
+    </div>
+    <a
+      class="LinkStyled__ButtonLinkStyled-sc-626068-1 cWbYJP"
+      data-testid="link"
+      href="/connect-account?id="
+      width="320"
+    >
+      Link My First Bill
+    </a>
+  </div>
+</DocumentFragment>
+`;

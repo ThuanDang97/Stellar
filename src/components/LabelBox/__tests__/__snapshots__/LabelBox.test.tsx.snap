@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LabelBox Component should be renders LabelBox active snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 dyOIxK"
+    cursor="pointer"
+    data-testid="label-box"
+  >
+    <span
+      class="TextStyled-sc-9xia41-0 uSkVX"
+      color="#FFF"
+      font-size="14"
+    >
+      Label
+    </span>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`LabelBox Component should render LabelBox component  1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 cqCwxi"
+    cursor="pointer"
+    data-testid="label-box"
+  >
+    <span
+      class="TextStyled-sc-9xia41-0 dItzST"
+      color="#242A30"
+      font-size="14"
+    >
+      Label
+    </span>
+  </div>
+</DocumentFragment>
+`;

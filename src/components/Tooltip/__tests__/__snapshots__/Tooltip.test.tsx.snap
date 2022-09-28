@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip Component renders tooltip unchanged 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 iGWxQB"
+    data-testid="tooltip-wrapper"
+    display="flex"
+  >
+    <p>
+      Hello
+    </p>
+  </div>
+</DocumentFragment>
+`;

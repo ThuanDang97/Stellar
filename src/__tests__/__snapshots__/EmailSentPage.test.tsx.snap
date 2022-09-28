@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmailSentPage matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__WrapperContent-sc-rqe5sa-6 fTsvHV gVWyht"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 hSHZsk"
+      height="60"
+      width="250"
+    >
+      <span
+        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+      >
+        <img
+          alt="stellar-logo"
+          data-nimg="fill"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+        />
+        <noscript />
+      </span>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 kLQFtm"
+      display="flex"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 hxHJAe"
+        data-testid="img"
+        height="450"
+        width="inherit"
+      >
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+        >
+          <img
+            alt="Jumping man image"
+            data-nimg="fill"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+          />
+          <noscript />
+        </span>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 unBPg"
+        display="flex"
+        width="inherit"
+      >
+        <h1
+          class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 iPgIes WstJK"
+          color="#000"
+          font-family="AdobeCleanExtraBold"
+        >
+          Email Sent!
+        </h1>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 gsNwVG eFQizc"
+          data-testid="emailSentComponent"
+          display="flex"
+          height="300"
+          width="350"
+        >
+          <p
+            class="TextStyled-sc-9xia41-0 gtHdGO"
+          >
+            We sent a reset link to your email:
+          </p>
+          <a
+            class="LinkStyled__ButtonLinkStyled-sc-626068-1 jgLrbp"
+            color="#4C84DB"
+            data-testid="link"
+            display="inline"
+            href="/reset-password?token="
+            text-decoration="underline"
+          />
+          <p
+            class="TextStyled-sc-9xia41-0 cdkYXI"
+          >
+            Didn't get the email?
+          </p>
+          <p
+            class="TextStyled-sc-9xia41-0 dPlZfi"
+          >
+            <span
+              class="TextStyled-sc-9xia41-0 cqwRte"
+            >
+              Try these tips from our
+            </span>
+            <a
+              class="LinkStyled__ButtonLinkStyled-sc-626068-1 jYvKQB"
+              data-testid="link"
+              display="inline"
+              href="/help"
+            >
+              Help & Support
+            </a>
+            .
+          </p>
+          <p
+            class="TextStyled-sc-9xia41-0 gtHdGO"
+          >
+            <span
+              class="TextStyled-sc-9xia41-0 cqwRte"
+            >
+              Not your email address?
+            </span>
+            <a
+              class="LinkStyled__ButtonLinkStyled-sc-626068-1 jYvKQB"
+              data-testid="link"
+              display="inline"
+              href="/forgot-password"
+            >
+              Try again
+            </a>
+            .
+          </p>
+        </div>
+        <span
+          class="TextStyled-sc-9xia41-0 kqeMrE"
+          color="#C0C0C0"
+        >
+          Don’t have an account?
+          <a
+            class="LinkStyled__ButtonLinkStyled-sc-626068-1 lfTGbL"
+            data-testid="link"
+            display="inline"
+            href="/sign-up"
+          >
+            Signup Now
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

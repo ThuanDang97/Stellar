@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderNav component renders HeaderNav correctly 1`] = `
+<DocumentFragment>
+  <ul
+    class="ListStyled-sc-t03hvr-0 cYiWEp"
+  >
+    <li
+      class="ListStyled__ListItemStyled-sc-t03hvr-1 GyEBw"
+      data-testid="item1"
+    >
+      <a
+        class="LinkStyled-sc-626068-0 domzJV"
+        color="#FFF"
+        data-testid="/help-1"
+        href="/help"
+      >
+        Help
+      </a>
+    </li>
+    <li
+      class="ListStyled__ListItemStyled-sc-t03hvr-1 GyEBw"
+      data-testid="item2"
+    >
+      <a
+        class="LinkStyled-sc-626068-0 domzJV"
+        color="#FFF"
+        data-testid="/feedback-2"
+        href="/feedback"
+      >
+        Feedback
+      </a>
+    </li>
+    <li
+      class="ListStyled__ListItemStyled-sc-t03hvr-1 GyEBw"
+      data-testid="item3"
+    >
+      <a
+        class="LinkStyled-sc-626068-0 domzJV"
+        color="#FFF"
+        data-testid="/refer-a-friend-3"
+        href="/refer-a-friend"
+      >
+        Refer A Friend
+      </a>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

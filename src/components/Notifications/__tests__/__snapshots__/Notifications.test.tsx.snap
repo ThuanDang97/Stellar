@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Notifications Component Component Notifications matchers DOM Snapshot 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 ViewStyled__BoxShadowAnimationStyled-sc-rqe5sa-3 hgketM csavJt kaGCFJ"
+    data-testid="notificationsHeader"
+    width="300"
+  >
+    <ul
+      class="ListStyled-sc-t03hvr-0 gYEiwT"
+      display="none"
+      width="100%"
+    >
+      <li
+        class="ListStyled__ListItemStyled-sc-t03hvr-1 kGAnkc"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 XoSwA"
+          display="flex"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 jfztUt"
+            font-size="16"
+            font-weight="700"
+          >
+            Credit Score Update
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 iixUHT kyJdLf"
+            color="#242A30"
+            overflow="hidden"
+          >
+            Your credit score increased by...
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 cntApC kyJdLf"
+            color="#242A30"
+          >
+            1 hours
+          </span>
+        </div>
+      </li>
+      <li
+        class="ListStyled__ListItemStyled-sc-t03hvr-1 kGAnkc"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 XoSwA"
+          display="flex"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 jfztUt"
+            font-size="16"
+            font-weight="700"
+          >
+            Bill Pay
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 iixUHT kyJdLf"
+            color="#242A30"
+            overflow="hidden"
+          >
+            We noticed you missed a payment...
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 cntApC kyJdLf"
+            color="#242A30"
+          >
+            3 days ago
+          </span>
+        </div>
+      </li>
+      <li
+        class="ListStyled__ListItemStyled-sc-t03hvr-1 kGAnkc"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 XoSwA"
+          display="flex"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 jfztUt"
+            font-size="16"
+            font-weight="700"
+          >
+            Offer
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 iixUHT kyJdLf"
+            color="#242A30"
+            overflow="hidden"
+          >
+            Look like you may quality for...
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 cntApC kyJdLf"
+            color="#242A30"
+          >
+            10 days ago
+          </span>
+        </div>
+      </li>
+      <li
+        class="ListStyled__ListItemStyled-sc-t03hvr-1 kGAnkc"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 XoSwA"
+          display="flex"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 jfztUt"
+            font-size="16"
+            font-weight="700"
+          >
+            Offer
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 iixUHT kyJdLf"
+            color="#242A30"
+            overflow="hidden"
+          >
+            Look like you may quality for offer
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TextStyled__TextDescriptionStyled-sc-9xia41-2 cntApC kyJdLf"
+            color="#242A30"
+          >
+            11 days ago
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

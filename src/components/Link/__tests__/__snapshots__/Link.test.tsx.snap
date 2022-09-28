@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link Component Component Link matchers DOM Snapshot 1`] = `
+<div>
+  <a
+    class="LinkStyled__ButtonLinkStyled-sc-626068-1 grtQrl"
+    data-testid="link"
+    href="/abc"
+  >
+    Link
+  </a>
+</div>
+`;

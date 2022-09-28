@@ -1,0 +1,39 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: AdobeCleanRegular;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'AdobeCleanRegular';
+  src: local('AdobeCleanRegular'),
+    url('../public/fonts/AdobeCleanRegular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'AdobeCleanBold';
+  src: local('AdobeCleanBold'),
+    url('../public/fonts/AdobeCleanBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'AdobeCleanExtraBold';
+  src: local('AdobeCleanExtraBold'),
+    url('../public/fonts/AdobeCleanExtraBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'AdobeCleanLight';
+  src: local('AdobeCleanLight'),
+    url('../public/fonts/AdobeCleanLight.otf') format('opentype');
+}

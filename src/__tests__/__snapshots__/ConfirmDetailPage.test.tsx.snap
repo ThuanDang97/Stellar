@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ConfirmDetail Page ConnectAccountPage matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 DashBoardPageStyled__WrapperMainContent-sc-2iw14z-1 dKdLBS ljMWJf"
+    width="100%"
+  >
+    <div
+      class="ViewStyled-sc-rqe5sa-0 cIuayL"
+      display="flex"
+    >
+      <button
+        class="ButtonStyled-sc-1ys9v52-0 lbfTyw"
+        data-testid="button"
+      >
+        <span
+          class="ButtonStyled__ButtonIconStyled-sc-1ys9v52-1 DjHyU"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 lFLaW"
+            display="inline-block"
+            height="20"
+            width="20"
+          >
+            <span
+              style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+            >
+              <img
+                data-nimg="fill"
+                decoding="async"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+              />
+              <noscript />
+            </span>
+          </div>
+        </span>
+      </button>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 kBewKp"
+      display="flex"
+    >
+      <h1
+        class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 TitleStyled__TitlePageStyled-sc-t58pjn-1 dCCmRr ONSni ilgUUT"
+        color="#242A30"
+        font-family="AdobeCleanExtraBold"
+        font-size="36"
+        letter-spacing="2"
+      >
+        Confirm Details
+      </h1>
+      <form
+        class="ViewStyled-sc-rqe5sa-0 ViewStyled__BoxShadowStyled-sc-rqe5sa-2 kZoWBc chwtod"
+        data-testid="confirmDetailForm"
+        novalidate=""
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 cafaom"
+          display="flex"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 gjRQva"
+            cursor="pointer"
+            height="80"
+            width="80"
+          >
+            <span
+              class="AvatarStyled-sc-1ppokaq-1 bOiqfJ"
+              data-testid="avatarDefault"
+            />
+          </div>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 TitleStyled__TitlePopupStyled-sc-t58pjn-2 XkRb kyLpEc iyHIHp"
+            color="#000"
+            font-size="20"
+            font-weight="700"
+          >
+             Account
+          </span>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 InputStyled__WrapperInputStyled-sc-9gj86m-1 dUEIVo brcjID"
+          color="#203F59"
+          data-testid="inputIcon"
+          display="block"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 InputStyled__WrapperIconStyled-sc-9gj86m-2 jPTliK bpxSly"
+            width="13"
+          >
+            <span
+              style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+            >
+              <img
+                alt="icon"
+                data-nimg="fill"
+                decoding="async"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+              />
+              <noscript />
+            </span>
+          </div>
+          <input
+            class="InputStyled-sc-1k09cqb-0 InputStyled__InputItemStyled-sc-9gj86m-0 hnxmhM NDCRX"
+            data-testid="iconInput"
+            maxlength="12"
+            name="amount"
+            placeholder=" Amount"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 fTsvHV"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 ViewStyled__BorderWrapperStyled-sc-rqe5sa-4 eJgyhf iTrmsK"
+            data-testid="select"
+            pointer-events="auto"
+            width="100%"
+          >
+            <div
+              class="ViewStyled-sc-rqe5sa-0 SelectStyled__WrapperSelectStyled-sc-4qihay-1 fTsvHV kUJXAU"
+            >
+              <div
+                class="ViewStyled__DividerStyled-sc-rqe5sa-5 cmkogR"
+                width="100%"
+              >
+                <span
+                  class="TextStyled-sc-9xia41-0 dItzST"
+                  data-testid="select-value"
+                  font-size="14"
+                />
+                <span
+                  class="SelectStyled__SelectIconStyled-sc-4qihay-0 loNHhu"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 ViewStyled__BorderWrapperStyled-sc-rqe5sa-4 dyvxXI eWayqq"
+          data-testid="select"
+          width="100%"
+        >
+          <div
+            class="ViewStyled__DividerStyled-sc-rqe5sa-5 eRzaft"
+          >
+            <div
+              class="ViewStyled-sc-rqe5sa-0 InputStyled__WrapperInputStyled-sc-9gj86m-1 gtErIS llBddb"
+              display="flex"
+            >
+              <div
+                class="react-datepicker-wrapper"
+              >
+                <div
+                  class="react-datepicker__input-container"
+                >
+                  <input
+                    class="PickerStyled__DateStyled-sc-1ns5yoz-0 golTem"
+                    placeholder="MM/DD/YYYY"
+                    type="text"
+                    value="Pay by the 30th"
+                  />
+                </div>
+              </div>
+              <span
+                class="SelectStyled__SelectIconStyled-sc-4qihay-0 kogIxx"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 fTsvHV"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 ViewStyled__BorderWrapperStyled-sc-rqe5sa-4 eJgyhf iTrmsK"
+            data-testid="select"
+            pointer-events="auto"
+            width="100%"
+          >
+            <div
+              class="ViewStyled-sc-rqe5sa-0 SelectStyled__WrapperSelectStyled-sc-4qihay-1 fTsvHV kUJXAU"
+            >
+              <div
+                class="ViewStyled__DividerStyled-sc-rqe5sa-5 cmkogR"
+                width="100%"
+              >
+                <span
+                  class="TextStyled-sc-9xia41-0 dItzST"
+                  data-testid="select-value"
+                  font-size="14"
+                >
+                  Pay 3 months
+                </span>
+                <span
+                  class="SelectStyled__SelectIconStyled-sc-4qihay-0 loNHhu"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          class="ButtonStyled-sc-1ys9v52-0 kXcBKQ"
+          cursor="pointer"
+          data-testid="button"
+          disabled=""
+          type="submit"
+        >
+          Confirm & Link Bill
+        </button>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;

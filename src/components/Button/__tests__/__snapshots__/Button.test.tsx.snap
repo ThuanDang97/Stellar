@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button render should render button component 1`] = `
+<DocumentFragment>
+  <button
+    class="ButtonStyled-sc-1ys9v52-0 eiCsWB"
+    data-testid="button"
+  />
+</DocumentFragment>
+`;

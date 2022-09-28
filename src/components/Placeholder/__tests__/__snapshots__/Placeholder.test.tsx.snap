@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Placeholder Component renders placeholder component with goal 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__RowStyled-sc-rqe5sa-1 fTsvHV eRHuZf"
+  >
+    <div
+      class="rect-shape"
+      style="background-color: rgb(230, 230, 230); width: 2.5rem; height: 2.5rem; margin-right: 10px; margin-top: 0rem;"
+    />
+    <div
+      class="ViewStyled-sc-rqe5sa-0 fNNXne"
+    >
+      <div
+        class="text-row"
+        style="width: 4.375rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+      />
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 bwSFDl"
+    >
+      <div
+        class="text-row"
+        style="width: 8.75rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+      />
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 hyFUvf"
+    >
+      <div
+        class="text-row"
+        style="width: 3.125rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+      />
+    </div>
+    <div
+      class="text-row"
+      style="width: 0.8125rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+    />
+  </div>
+</div>
+`;
+
+exports[`Placeholder Component renders placeholder component with link bill 1`] = `
+<div>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 ViewStyled__RowStyled-sc-rqe5sa-1 fTsvHV eRHuZf"
+  >
+    <div
+      class="rect-shape"
+      style="background-color: rgb(230, 230, 230); width: 2.5rem; height: 2.5rem; margin-right: 10px; margin-top: 0rem;"
+    />
+    <div
+      class="ViewStyled-sc-rqe5sa-0 fNNXne"
+    >
+      <div
+        class="text-row"
+        style="width: 4.375rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+      />
+      <div
+        class="text-row"
+        style="width: 8.75rem; height: 0.375rem; background-color: rgb(230, 230, 230); margin-top: 0.3125rem;"
+      />
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 bwSFDl"
+    >
+      <div
+        class="text-row"
+        style="width: 8.75rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+      />
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 hyFUvf"
+    >
+      <div
+        class="text-row"
+        style="width: 3.125rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+      />
+    </div>
+    <div
+      class="text-row"
+      style="width: 0.8125rem; height: 0.8125rem; background-color: rgb(230, 230, 230); margin-top: 0rem;"
+    />
+  </div>
+</div>
+`;

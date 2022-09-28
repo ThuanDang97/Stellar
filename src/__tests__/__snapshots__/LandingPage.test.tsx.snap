@@ -1,0 +1,1321 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing page renders landing page unchanged 1`] = `
+<DocumentFragment>
+  <div
+    class="ViewStyled-sc-rqe5sa-0 LayoutStyled__SecondaryLayout-sc-ivdxqy-1 eHewkR jlGBer"
+    overflow="hidden"
+  >
+    <header
+      class="ViewStyled-sc-rqe5sa-0 HeaderStyled-sc-ht65yv-0 kIsemG eDFsPK"
+      width="100%"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 ViewStyled__Container-sc-rqe5sa-9 ivbjTx dTVWqF"
+        display="flex"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 eqYeCy"
+          display="flex"
+          width="15%"
+        />
+        <div
+          class="ViewStyled-sc-rqe5sa-0 hItHKT"
+          width="70%"
+        >
+          <span
+            style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+          >
+            <span
+              style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+            >
+              <img
+                alt=""
+                aria-hidden="true"
+                src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e"
+                style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+              />
+            </span>
+            <img
+              data-nimg="intrinsic"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+            />
+            <noscript />
+          </span>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 fMTQRR"
+          display="flex"
+          width="15%"
+        >
+          <a
+            class="LinkStyled__ButtonLinkStyled-sc-626068-1 cDaOpQ"
+            color="#FFF"
+            data-testid="link"
+            href="/login"
+            width="50"
+          >
+            Login
+          </a>
+        </div>
+      </div>
+    </header>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 bfTvEd"
+      display="flex"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeOutStyled-sc-1e3pr1k-0 fTsvHV bcLOKv"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__LogoResponsiveLandingPage-sc-1e3pr1k-6 bSByRT hfkkOz"
+        >
+          <span
+            style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+          >
+            <img
+              alt="stellar-logo"
+              data-nimg="fill"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+            />
+            <noscript />
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeInBottomStyled-sc-1e3pr1k-3 fTsvHV cZtgP"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeOutStyled-sc-1e3pr1k-0 fTsvHV cKROiS"
+        >
+          <h1
+            class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+            color="#FFF"
+            font-weight="700"
+          >
+            Bad credit weighs you down.
+          </h1>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeInTopStyled-sc-1e3pr1k-2 fTsvHV kLeBoE"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__TextFadeOutStyled-sc-1e3pr1k-0 fTsvHV chdMul"
+        >
+          <h1
+            class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+            color="#FFF"
+            font-weight="700"
+          >
+            Good credit lifts you up.
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 AnimatedTextStyled__ImageSlideInStyled-sc-1e3pr1k-4 fTsvHV lgaRsn"
+    >
+      <span
+        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+      >
+        <img
+          alt="earth"
+          data-nimg="fill"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+        />
+        <noscript />
+      </span>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 LandingPageStyled__AnimatedLineStyled-sc-19vluzy-0 fTsvHV gWtUJv"
+    >
+      <div
+        class="ViewStyled-sc-rqe5sa-0 datfMp"
+        display="flex"
+        width="100%"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 kQEvr"
+          width="min(90%, 43.75rem)"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 AnimatedScoreGroupStyled__TitleWrapperStyled-sc-jka6cd-0 fTsvHV fxNWyD"
+          >
+            <h1
+              class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+              color="#FFF"
+              font-weight="700"
+            >
+              Your credit score is calculated using data from your credit report.
+            </h1>
+            <h1
+              class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+              color="#FFF"
+              font-weight="700"
+            >
+              Stellar improves factors that make up 80% of your score.
+            </h1>
+          </div>
+          <div
+            class="ViewStyled-sc-rqe5sa-0 kCJugR"
+            display="flex"
+            overflow="hidden"
+            width="100%"
+          >
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineScoreStyled__StartLineScoreStyled-sc-poybgv-0 dlHdcM hLygIM hOqQg"
+              width="35"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineScoreStyled__MiddleLineScoreStyled-sc-poybgv-1 btYAst ldvwuf kqCuoI"
+              width="30"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineScoreStyled__MiddleLineScoreStyled-sc-poybgv-1 dCqiri ldvwuf dIRoYr"
+              width="15"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineScoreStyled__MiddleLineScoreStyled-sc-poybgv-1 hhHjIH ldvwuf jpHKbD"
+              width="10"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__EndBaseLineStyled-sc-okjczv-3 AnimatedLineScoreStyled__EndLineScoreStyled-sc-poybgv-2 hhHjIH dahDgB hUBnOx"
+              width="10"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineScoreStyled__LayerLineStyled-sc-poybgv-3 kdqgjs hLygIM gXLyRi"
+              width="80% - 0.875rem"
+            />
+            <div
+              class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 lisOCr"
+            />
+            <div
+              class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 bDcpsq"
+            />
+            <div
+              class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 cRdoku"
+            />
+            <div
+              class="AnimatedLineScoreStyled__Shim-sc-poybgv-4 dnSNqt"
+            />
+          </div>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 AnimatedScoreGroupStyled__LabelWrapperStyled-sc-jka6cd-1 fTsvHV dlrqOw"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="false"
+            letter-spacing="0.9"
+          >
+            35% Payment History
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="true"
+            letter-spacing="0.9"
+          >
+            +
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="false"
+            letter-spacing="0.9"
+          >
+            30% Credit Owed
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="true"
+            letter-spacing="0.9"
+          >
+            +
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="false"
+            letter-spacing="0.9"
+          >
+            15% Credit Age
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="true"
+            letter-spacing="0.9"
+          >
+            +
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="false"
+            letter-spacing="0.9"
+          >
+            10% New Credit
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="true"
+            letter-spacing="0.9"
+          >
+            +
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 fWhMws ftzJlA kwHUqK"
+            color="#FFF"
+            data-icon="false"
+            letter-spacing="0.9"
+          >
+            10% Credit Mix
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 epEOjT"
+        display="flex"
+        width="70%"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 AnimatedBillGroupStyled__TitleWrapperStyled-sc-1cfnkcp-0 fTsvHV cCHoji"
+        >
+          <h1
+            class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+            color="#FFF"
+            font-weight="700"
+          >
+            We combine all your 
+            <br />
+             monthly bills.
+          </h1>
+          <h1
+            class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+            color="#FFF"
+            font-weight="700"
+          >
+            We give you a line of credit for a year’s worth of bills.
+          </h1>
+          <h1
+            class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hMnkWB ekfgDB"
+            color="#FFF"
+            font-weight="700"
+          >
+            Improving your 
+            <span
+              class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 hCiddY ekfgDB"
+              color="#F2406E"
+              font-weight="700"
+            >
+              credit utilization
+            </span>
+             ratio by paying off your line on time, every month.
+          </h1>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 dtSpVb"
+          display="flex"
+          width="min(100%, 43.75rem)"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 AnimatedLineBillStyled__LineColorWrapper-sc-ztf5jp-0 fTsvHV iIVXNO"
+          >
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineBillStyled__StartLineBillStyled-sc-ztf5jp-1 jMrJhT iHoRst bVkDpp"
+              width="100"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__StartBaseLineStyled-sc-okjczv-1 AnimatedLineBillStyled__StartLineBillStyled-sc-ztf5jp-1 jtlkPM hLygIM fvUhYq"
+              width="20"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf ffJIiP"
+              width="20"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf jqmIMA"
+              width="20"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf cKvVwc"
+              width="20"
+            />
+            <div
+              class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__MiddleBaseLineStyled-sc-okjczv-2 AnimatedLineBillStyled__MiddleLineBillStyled-sc-ztf5jp-2 jtlkPM ldvwuf kBQUNL"
+              width="20"
+            />
+          </div>
+          <div
+            class="AnimatedLineBillStyled__Shim-sc-ztf5jp-4 dUfsxq"
+          />
+          <div
+            class="LineStyled__BaseLineStyled-sc-okjczv-0 LineStyled__EndBaseLineStyled-sc-okjczv-3 AnimatedLineBillStyled__EndLineBillStyled-sc-ztf5jp-3 jAKLm dahDgB enBYoC"
+            width="80"
+          />
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 AnimatedBillGroupStyled__LabelWrapperStyled-sc-1cfnkcp-1 fTsvHV kEmhdb"
+        >
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 jYEfnf ftzJlA kwHUqK"
+            color="#FFF"
+            font-weight="700"
+            letter-spacing="0.9"
+          >
+            Rent
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 jYEfnf ftzJlA kwHUqK"
+            color="#FFF"
+            font-weight="700"
+            letter-spacing="0.9"
+          >
+            Netflix
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 jYEfnf ftzJlA kwHUqK"
+            color="#FFF"
+            font-weight="700"
+            letter-spacing="0.9"
+          >
+            Gym
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 jYEfnf ftzJlA kwHUqK"
+            color="#FFF"
+            font-weight="700"
+            letter-spacing="0.9"
+          >
+            Utilities
+          </span>
+          <span
+            class="TextStyled-sc-9xia41-0 TitleStyled-sc-t58pjn-0 AnimatedScoreGroupStyled__ScoreLabelStyled-sc-jka6cd-2 jYEfnf ftzJlA kwHUqK"
+            color="#FFF"
+            font-weight="700"
+            letter-spacing="0.9"
+          >
+            Dog Walker
+          </span>
+        </div>
+      </div>
+      <div
+        class="ViewStyled-sc-rqe5sa-0 AnimatedTickerStyled__ContentWrapper-sc-nln3s6-0 fTsvHV jisrsK"
+      >
+        <div
+          class="ViewStyled-sc-rqe5sa-0 kBewKp"
+          display="flex"
+        >
+          <div
+            class="ViewStyled-sc-rqe5sa-0 AnimatedTickerStyled__TitleWrapperStyled-sc-nln3s6-1 fTsvHV jZrXco"
+          >
+            <h1
+              class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 qecIO ekfgDB"
+              color="#FFF"
+              font-size="36"
+              font-weight="700"
+              letter-spacing="0.9"
+            >
+              Building your credit score and credit profile over time.
+            </h1>
+            <h1
+              class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 qecIO ekfgDB"
+              color="#FFF"
+              font-size="36"
+              font-weight="700"
+              letter-spacing="0.9"
+            >
+              The more bills you add, the more your score can improve.
+            </h1>
+          </div>
+          <div
+            class="ViewStyled-sc-rqe5sa-0 TickerStyled__TickerWrapperStyled-sc-x8b1pu-0 eQdhWe inONBg"
+            color="#F22E3E"
+            data-testid="digit-container"
+            height="0"
+          >
+            <div
+              class="TickerStyled__TickerColumn-sc-x8b1pu-1 TickerStyled__TickerColumnOne-sc-x8b1pu-2 ckdZER duqavd"
+            >
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+            </div>
+            <div
+              class="TickerStyled__TickerColumn-sc-x8b1pu-1 TickerStyled__TickerColumnTwo-sc-x8b1pu-3 ckdZER JKGqo"
+            >
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+            </div>
+            <div
+              class="TickerStyled__TickerColumn-sc-x8b1pu-1 TickerStyled__TickerColumnThree-sc-x8b1pu-4 ckdZER lpsVtF"
+            >
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                0
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                1
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                2
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                3
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                4
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                5
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                6
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                7
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                8
+              </h2>
+              <h2
+                class="TickerStyled__TickerDigit-sc-x8b1pu-5 NgIke"
+                font-size="70"
+              >
+                9
+              </h2>
+            </div>
+          </div>
+          <div
+            class="TickerStyled__TickerSimulator-sc-x8b1pu-6 eiGKYT"
+            font-size="70"
+          >
+            0
+          </div>
+        </div>
+        <div
+          class="ViewStyled-sc-rqe5sa-0 kBewKp"
+          display="flex"
+        >
+          <h1
+            class="TextStyled-sc-9xia41-0 LandingPageStyled__TitleLandingPageStyled-sc-19vluzy-2 qecIO ekfgDB"
+            color="#FFF"
+            font-size="36"
+            font-weight="700"
+            letter-spacing="0.9"
+          >
+            Switch off the gravity holding down your score.
+          </h1>
+          <a
+            class="LinkStyled__ButtonLinkStyled-sc-626068-1 ilolYJ"
+            data-testid="link"
+            href="/sign-up"
+            width="315"
+          >
+            Continue
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ViewStyled-sc-rqe5sa-0 LandingPageStyled__ButtonWrapperStyled-sc-19vluzy-1 fTsvHV dLtMge"
+    >
+      <a
+        class="LinkStyled__ButtonLinkStyled-sc-626068-1 htftfU"
+        data-testid="link"
+        href="/sign-up"
+      >
+        Skip This
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
