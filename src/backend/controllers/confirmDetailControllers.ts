@@ -15,9 +15,9 @@ import { LinkedBillListProps } from '@self-types/components/Table.props'
 import { addedBillControllers } from '@backend/controllers/addedBillControllers'
 
 // JSON data
-import linkedBills from '../../../tmp/linkedBills.json'
-import addedBills from '../../../tmp/addedBills.json'
-import users from '../../../tmp/users.json'
+import linkedBills from '../../../json/linkedBills.json'
+import addedBills from '../../../json/addedBills.json'
+import users from '../../../json/users.json'
 
 export const confirmDetail = (
   userId: string,

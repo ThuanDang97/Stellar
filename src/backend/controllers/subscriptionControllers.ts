@@ -6,7 +6,7 @@ import { findItemByValue } from '@utils/index'
 import { IUser, SubscriptionPlan } from '@self-types/api'
 
 // JSON data
-import users from '../../../tmp/users.json'
+import users from '../../../json/users.json'
 
 export const selectSubscriptionPlan = (
   userId: string,

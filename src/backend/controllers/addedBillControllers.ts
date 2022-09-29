@@ -7,8 +7,8 @@ import { IAddedBill, IBillPayload } from '@self-types/api'
 import { AddedBillListProps } from '@self-types/components/Table.props'
 
 // JSON data
-import addedBills from '../../../tmp/addedBills.json'
-import allBills from '../../../tmp/bills.json'
+import addedBills from '../../../json/addedBills.json'
+import allBills from '../../../json/bills.json'
 
 /**
  * Get user's added bills

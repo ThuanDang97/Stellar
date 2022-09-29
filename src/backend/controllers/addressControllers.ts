@@ -6,7 +6,7 @@ import { findItemByValue } from '@utils/index'
 import { AddressUser, IUser } from '@self-types/api'
 
 // Data
-import users from '../../../tmp/users.json'
+import users from '../../../json/users.json'
 
 /**
  * Add new address

@@ -7,7 +7,7 @@ import { BankNumberType } from '@self-types/components/AddBankAccount.props'
 import { IBankAccount } from '@self-types/api'
 
 // JSON data
-import bankAccount from '../../../tmp/bankAccount.json'
+import bankAccount from '../../../json/bankAccount.json'
 
 /**
  * Get user's bank account
