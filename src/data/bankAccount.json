@@ -1,0 +1,34 @@
+[
+  {
+    "userId": "2e2696f7fa7gg",
+    "account": [
+      {
+        "bankNumber": "423432432423232",
+        "id": "USbank",
+        "bankName": "Wells Fargo"
+      },
+      {
+        "bankNumber": "423432432427575",
+        "id": "ins_11",
+        "bankName": "Wells Fargo"
+      }
+    ]
+  },
+  {
+    "userId": "2e2696f7fa7cf",
+    "account": [
+      { "id": "ins_56", "bankNumber": "1111222233330000", "bankName": "Chase" },
+      {
+        "id": "ins_127989",
+        "bankNumber": "1111222233330000",
+        "bankName": "Bank of America"
+      }
+    ]
+  },
+  {
+    "userId": "l81elcmf.ufe",
+    "account": [
+      { "id": "ins_56", "bankNumber": "1111222233330000", "bankName": "Chase" }
+    ]
+  }
+]

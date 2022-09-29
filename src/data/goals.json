@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1frgtr",
+    "value": "g1",
+    "goal": "Improve my credit score",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 651,
+    "pointNeeded": 0
+  },
+  {
+    "id": "asd234",
+    "value": "g2",
+    "goal": "Build wealth",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 620,
+    "pointNeeded": 23
+  },
+  {
+    "id": "32erewr",
+    "value": "g3",
+    "goal": "Buy a car",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 661,
+    "pointNeeded": 0
+  },
+  {
+    "id": "kjhu78689",
+    "value": "g4",
+    "goal": "Get a job",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 600,
+    "pointNeeded": 0
+  },
+  {
+    "id": "sdfwe543",
+    "value": "g5",
+    "goal": "Buy a home",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 620,
+    "pointNeeded": 46
+  },
+  {
+    "id": "dfg5645",
+    "value": "g6",
+    "goal": "Rent a home",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 620,
+    "pointNeeded": 2
+  },
+  {
+    "id": "vdsfg123",
+    "value": "g7",
+    "goal": "Get a Credit Card",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 600,
+    "pointNeeded": 0
+  },
+  {
+    "id": "dfg56756",
+    "value": "g8",
+    "goal": "Get better insurance rate",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 651,
+    "pointNeeded": 2
+  },
+  {
+    "id": "vcdd4555",
+    "value": "g9",
+    "goal": "Get better interest rate",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 651,
+    "pointNeeded": 0
+  },
+  {
+    "id": "ju99768",
+    "value": "g10",
+    "goal": "Pay my bills on time",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 620,
+    "pointNeeded": 45
+  },
+  {
+    "id": "dede45",
+    "value": "g11",
+    "goal": "Get a loan",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 620,
+    "pointNeeded": 2
+  },
+  {
+    "id": "juju8",
+    "value": "g12",
+    "goal": "Start a business",
+    "imgUrl": "/images/netflix.png",
+    "scoreNeeded": 620,
+    "pointNeeded": 0
+  }
+]

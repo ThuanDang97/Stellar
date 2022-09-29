@@ -1,0 +1,52 @@
+[
+  {
+    "userId": "2e2696f7fa7cf",
+    "linkedBills": [
+      {
+        "id": "l7re7b8a.y",
+        "imgUrl": "/images/netflix.png",
+        "description": "Netflix",
+        "amount": 20,
+        "email": "khanhtam304n@gmail.com",
+        "password": "Khanhtam@123",
+        "bankName": "Chase",
+        "draftDate": 17,
+        "payPeriod": "1",
+        "status": "paid"
+      },
+      {
+        "id": "l7rdb1ap.d0m",
+        "imgUrl": "/images/t-mobile.png",
+        "description": "T-Mobile",
+        "amount": 11,
+        "email": "khanhtam304n@gmail.com",
+        "password": "Khanhtam@123",
+        "bankName": "Chase",
+        "draftDate": 12,
+        "payPeriod": "3",
+        "status": "unpaid"
+      }
+    ]
+  },
+  {
+    "userId": "2e2696f7fa7gg",
+    "linkedBills": [
+      {
+        "id": "765fff",
+        "imgUrl": "/images/hulu.png",
+        "description": "Hulu",
+        "amount": 70,
+        "email": "a@gmail.com",
+        "password": "12345678",
+        "bankName": "Wells Fargo",
+        "draftDate": 1,
+        "status": "paid",
+        "payPeriod": "yearly"
+      }
+    ]
+  },
+  {
+    "userId": "l81elcmf.ufe",
+    "linkedBills": []
+  }
+]
