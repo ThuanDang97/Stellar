@@ -21,7 +21,7 @@ import { findItemByValue } from '@utils/index'
 import { EMAIL_EXIST } from '@constants/errorMessage'
 
 // Data
-import users from '../../tmp/data/users.json'
+import users from '../../tmp/users.json'
 
 // Check validate input value
 export const checkValidate = (args: ValidateProps): string => {

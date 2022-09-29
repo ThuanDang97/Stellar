@@ -9,7 +9,7 @@ import { IUser } from '@self-types/api'
 import { FREE_CREDIT_SCORE } from '@constants/variables'
 
 // Data
-import users from '../../../tmp/data/users.json'
+import users from '../../../tmp/users.json'
 
 /**
  * Add new ssn
