@@ -2,7 +2,7 @@
 import { IBills } from '@self-types/api'
 
 // JSON data
-import bills from '../../../json/bills.json'
+import bills from '../../data/bills.json'
 
 export const getBills = (useId: string): IBills[] | false => {
   if (useId) {

@@ -6,7 +6,7 @@ import { findItemByValue, getUniqueStringArray } from '@utils/index'
 import { IMarketing } from '@self-types/api'
 
 // JSON data
-import marketingUsers from '../../../json/marketingUsers.json'
+import marketingUsers from '../../data/marketingUsers.json'
 
 /**
  * Find existed user

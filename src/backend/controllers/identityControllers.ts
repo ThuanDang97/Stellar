@@ -6,7 +6,7 @@ import { findItemByValue } from '@utils/index'
 import { IdentityAccount, IUser } from '@self-types/api'
 
 // Data
-import users from '../../../json/users.json'
+import users from '../../data/users.json'
 
 /**
  * Add new Identity
