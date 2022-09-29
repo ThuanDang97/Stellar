@@ -6,7 +6,7 @@ import { saveDataToJSON } from '@utils/fileSystem'
 import { findItemByValue } from '@utils/index'
 
 // JSON data
-import users from '../../data/users.json'
+import users from '../../../tmp/data/users.json'
 
 /**
  * Add new user

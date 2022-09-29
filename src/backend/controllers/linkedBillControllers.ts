@@ -7,8 +7,8 @@ import { LinkedBillListProps } from '@self-types/components/Table.props'
 import { ILinkedBill, IUpdateLinkedBill } from '@self-types/api'
 
 // JSON data
-import linkedBills from '../../data/linkedBills.json'
-import allBills from '../../data/bills.json'
+import linkedBills from '../../../tmp/data/linkedBills.json'
+import allBills from '../../../tmp/data/bills.json'
 
 /**
  * Get user's linked bills

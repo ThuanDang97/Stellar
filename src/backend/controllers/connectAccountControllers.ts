@@ -7,8 +7,8 @@ import { IConnectAccount } from '@self-types/api'
 import { AddedBillListProps } from '@self-types/components/Table.props'
 
 // JSON data
-import linkedBills from '../../data/linkedBills.json'
-import addedBills from '../../data/addedBills.json'
+import linkedBills from '../../../tmp/data/linkedBills.json'
+import addedBills from '../../../tmp/data/addedBills.json'
 
 /**
  * Connect account

@@ -11,8 +11,8 @@ import {
 import { GoalListProps } from '@self-types/components/Table.props'
 
 // JSON data
-import goalUsers from '../../data/goalUsers.json'
-import allGoals from '../../data/goals.json'
+import goalUsers from '../../../tmp/data/goalUsers.json'
+import allGoals from '../../../tmp/data/goals.json'
 
 /**
  * Get user's goals
